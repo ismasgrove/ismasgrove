@@ -4,9 +4,9 @@ Greetings! `ismasgrove` is a Hollow Knight reference, but `isma` is close enough
 
 I also have an ever-growing site for small self-contained `@react-three` demos which you can find [here](https://ismasgrove.me)!
 
-##### Language preferences
+#### Language
 
-Comfort languages: `TypeScript`, `JavaScript`, `Rust`
-Moderately proficient in: `C++17`, `C#`
-Could use a refersh: `Java`, `PHP`, `C`
-Minor exposure to: `Python`, `Go`, `Haskell`, `Elixir`
+Comfort languages: `TypeScript`, `JavaScript`, `Rust` <br/>
+Moderately proficient in: `C++17`, `C#`<br/>
+Could use a refersh: `Java`, `PHP`, `C`<br/>
+Minor exposure to: `Python`, `Go`, `Haskell`, `Elixir`<br/>
